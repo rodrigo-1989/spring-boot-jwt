@@ -1,0 +1,21 @@
+body{
+    background-color: #8fd19e;
+}
+
+.borde-img{
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+}
+
+.sombra{
+    box-shadow:0px 0px 40px #0b2e13;
+}
+
+.font-style{
+    color: darkblue;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    font-size: 31px;
+    text-align: center;
+}
